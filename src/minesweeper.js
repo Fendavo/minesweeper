@@ -1,7 +1,7 @@
 //minesweeper version 5  20180507 
 //https://www.codecademy.com/courses/minesweeper/projects/adding-class-structure?program_content_id=0741dcebce95fb8a8875f99d2971f936&program_id=7a14cd6a79149641a80c7f6396a160ab
 
-//creating modules for Part 6
+//creating modules for Part 6 - DFenton
 class Game {
 	constructor(numberOfRows, numberOfColumns, numberOfBombs) {
 		/*To call Board methods, create an instance of a Board inside 
