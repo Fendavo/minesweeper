@@ -1,0 +1,15 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "Codecademy project",
+  "main": "board.js",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "author": "David Fenton",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
